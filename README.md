@@ -14,8 +14,7 @@
 <h2>For User</h2>
 
 Open Your browser put inside browser http://localhost/library
-<h3>Login Details for user:</h3> 
-<h4>Username : test@gmail.com </h4>
+<h3>Login Details for user : </h3><h4>Username : test@gmail.com </h4>
 <h4>Password : Test@123 </h4>
 
 <h2>For Admin Panel</h2>
